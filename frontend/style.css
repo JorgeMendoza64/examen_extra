@@ -1,0 +1,58 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 40px;
+    background-color: #5f9Aa0;
+}
+
+h1 {
+    color: #0010ff;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+form {
+    background-color: #5db1ba;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+} 
+
+input {
+    margin: 5px;
+    padding: 5px;
+    height: 1rem;
+}
+
+select {
+    margin: 5px;
+    padding: 5px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 5px 10px;
+}
+
+table {
+    background: #5db1ba;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #0010ff;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: aqua;
+}
+
+#btn_guardar {
+    background-color: green;
+}
+
+#btn_cancelar {
+    background-color: red;
+}
